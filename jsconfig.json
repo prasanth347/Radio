@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src/",
+		"paths": {
+			"@QRCode": ["QRCode"],
+			"@common": ["common"],
+			"@containers": ["containers"]
+			"@components": ["components"]
+		}
+	},
+	"exclude": ["node_modules"]
+}
